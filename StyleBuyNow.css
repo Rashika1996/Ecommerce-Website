@@ -1,0 +1,178 @@
+/* CSS Document */
+body{
+     margin:0px;
+	 background-attachment:scroll;
+	 }
+header{
+     width:100%;
+	 background:#F8F8F8;
+	 color:#777777;
+	 border-bottom:1px #E7E7E7 solid;
+	 display:block;
+	 
+	 }
+.hmid{
+     width:1000px;
+	 margin:0px auto ;
+	 padding:15px;
+	 font-family:abc;
+	 display:block;
+	 }
+.hl
+{
+     text-align:left;
+	 display:inline-block;
+	 vertical-align:top;
+	 width:25%; 
+	 font-size:18px;
+}
+.hr
+{
+    text-align:right;
+	 display:inline-block;
+	 vertical-align:top;
+	 width:70%;
+	 font-size:14px;
+}
+
+.a img{ opacity:0.5;}
+.a img:hover{opacity:0.9} 
+
+
+
+
+.hr img
+{
+	margin-left:40px;
+}
+.row1
+{
+	width:1200px;
+	margin:20px auto; 
+}
+.box
+{
+	width:385px;
+	border:1px #E7E7E7 solid;
+	/*background:#F5F5F5;*/
+	height:385px;
+	display:block;
+	margin-right:10px;
+	box-sizing:border-box;
+	border-radius:5px;
+	display:inline-block;
+	vertical-align:top;
+	font-family:abc;
+}
+.heading
+{
+	background:#F8F8F8;
+	width:100%;
+	/*border:1px #E7E7E7 solid;*/
+	padding:5px;
+	box-sizing:border-box;
+	border-bottom:1px #E7E7E7 solid;
+	color:#999999;
+}
+.pic
+{
+	width:100%;
+	text-align:center;
+	padding:10px;
+	box-sizing:border-box;
+	height:235px;
+}
+.dis
+{
+	width:100%;
+	padding:5px; 
+	box-sizing:border-box;
+	color:#777777;
+	font-size:15px;
+}
+input[type="button"]
+{
+	margin:10px;
+	width:360px;
+	padding:3px;
+	color:#FFFFFF;
+	border-radius:5px;
+	box-sizing:border-box;
+	background:#337AB7;
+	font-weight:bold;
+	height:40px;
+}
+footer
+{
+	width:100%;
+	background:#444444;
+	display:block;
+	height:100px;
+	/*border:3px blue solid;*/
+	
+	
+}
+.fmid
+{
+	margin:0px auto;
+	margin-top:10px;
+	display:block;
+	height:97px;
+	font-family:abc;
+	/*border:2px red solid;*/
+	
+}
+.f1
+{
+	width:400px;
+	align:left;
+	margin:0px 5px 0px 0px;
+	/*border:3px red solid;*/
+	display:inline-block;
+	height:80px;
+}
+.f2
+{
+	width:400px;
+	align:left;
+	margin:10px 5px 0px 0px;
+	/*border:3px red solid;*/
+	display:inline-block;
+	height:80px;
+}
+.f3
+{
+	width:500px;
+	align:right;
+	margin:10px 5px 0px 0px;
+	/*border:3px red solid;*/
+	display:inline-block;
+	vertical-align:top;
+	height:80px;
+}
+.heading1
+{
+	padding:20px 10px 10px 150px;
+	font-size:20px;
+	color:#FFFFE1;
+	/*border:3px red solid;*/
+	}
+.disp1
+{
+	padding:0px 10px 5px 150px;
+	font-size:12px;
+	color:#FFFFE1;
+	margin-top:1px;
+	/*border:3px black solid;*/
+	height:10px;
+	}
+.r1
+{
+	width:60px;
+	}
+@font-face/*how to import font*/
+	{
+		font-family:abc;
+		src:url(calibri.ttf);
+	}
+

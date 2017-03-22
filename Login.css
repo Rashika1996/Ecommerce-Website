@@ -1,0 +1,50 @@
+/* CSS Document */
+body{
+     margin:10px;
+	 font-family:Arial, Helvetica, sans-serif;
+	 font-size:14px;
+	 }
+.header{
+width:500px;
+height:30px;
+border-bottom:thin;
+font-family:Arial, Helvetica, sans-serif;
+
+}
+hr{
+width:230px;
+margin:0px;
+}
+.container{
+     width:500px ;
+	 height:125px;
+	 font-size:14px;
+	 font-family:Arial, Helvetica, sans-serif;
+	 
+	 }
+a{text-decoration:none;}
+input[type="email"]
+{
+width:200px;
+border-radius:3px;
+margin:5px 0px 5px 0px;
+height:25px;
+border:#99A3A7 1px solid;
+}
+input[type="password"]
+{
+width:200px;
+border-radius:3px;
+margin:5px 0px 5px 0px;
+height:25px;
+border:#99A3A7 1px solid;
+}
+input[type="submit"]
+{
+    background-image:url(images/login1.png);
+	background-repeat:no-repeat;
+	width:45px;
+	height:26px;
+}
+
+
